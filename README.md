@@ -58,5 +58,5 @@ npm run doc:serve
 
 3，推到开发机：npm run release
 
-### 编译机
-测试...
+#universial-cli
+统一规范的脚手架开发，降低新建代码库框架搭建时间，时长从1人日缩短至0.5小时内
